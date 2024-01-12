@@ -1,7 +1,7 @@
 # *Aletsch* (Working title) - VR Experience 
 
 ## Description 
-![Screenshot](Material/Aletsch-cross.png)
+![Screenshot](Material/Moss_cross.png)
 
 Grounded in real-time weather data and Digital Elevation Models, *Aletsch* is a live Virtual Reality portal to a small section of the mightiest glacier of the Alps. A reoccurent subject of Swiss mythology, *Aletsch* seeks to embed narrative fiction in an environement constantly in flux. 
 
