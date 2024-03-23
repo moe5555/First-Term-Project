@@ -4,7 +4,7 @@
 ## Vision
 What if there was a virtual portal to a glacier grounded in (real-time) data but blurred by fiction? An ever-changing digital twin of sorts, reflecting a real part of our world while opening up our experience beyond the factual? My goal was to create an experience that would bring users (immersants - borrowed from Char Davies) closer to the mightiest glacier of the Alps through data, a more scientific approach, and fictional tales, a more mystical approach. Throughout working on this project, I tried to stay as close to the site - the Aletsch Glacier - as I felt was reasonable. In the following I will describe the different ideas I tried along the way, contextualizing the final result for the reader.
 
-Project files and playthroughs can be found here: 
+Project files and playthroughs can be found here: https://owncloud.gwdg.de/index.php/s/uvsqIHPixqjVZAt PW: aletsch
 
 ## Initial Idea 
 The idea to create an immersive VR experience about a glacier as my first term project came to mind early in the semester. Initially, I proposed to create a social VR experience about the disappearance of a glacier, in which three people initially experience the glacier separately, before meeting in the passthrough mode of their *Meta Quest 2*s, as the glacier melts away. When I began to think about how I could design the glacier, my advisor Alex pointed me toward Digital Elevation Models (DEMs), leading me in the direction the project eventually took. 
